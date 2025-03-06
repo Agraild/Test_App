@@ -1,0 +1,27 @@
+C:\Users\Masch\Desktop\тестовое\Console test zd\Console test zd\bin\Release\Console test zd.exe.config
+C:\Users\Masch\Desktop\тестовое\Console test zd\Console test zd\bin\Release\Console test zd.exe
+C:\Users\Masch\Desktop\тестовое\Console test zd\Console test zd\bin\Release\Console test zd.pdb
+C:\Users\Masch\Desktop\тестовое\Console test zd\Console test zd\bin\Release\Aspose.Cells.dll
+C:\Users\Masch\Desktop\тестовое\Console test zd\Console test zd\bin\Release\ConsoleTables.dll
+C:\Users\Masch\Desktop\тестовое\Console test zd\Console test zd\bin\Release\Microsoft.Win32.Primitives.dll
+C:\Users\Masch\Desktop\тестовое\Console test zd\Console test zd\bin\Release\System.AppContext.dll
+C:\Users\Masch\Desktop\тестовое\Console test zd\Console test zd\bin\Release\System.Console.dll
+C:\Users\Masch\Desktop\тестовое\Console test zd\Console test zd\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Masch\Desktop\тестовое\Console test zd\Console test zd\bin\Release\System.Globalization.Calendars.dll
+C:\Users\Masch\Desktop\тестовое\Console test zd\Console test zd\bin\Release\System.IO.Compression.dll
+C:\Users\Masch\Desktop\тестовое\Console test zd\Console test zd\bin\Release\System.IO.Compression.ZipFile.dll
+C:\Users\Masch\Desktop\тестовое\Console test zd\Console test zd\bin\Release\System.IO.FileSystem.dll
+C:\Users\Masch\Desktop\тестовое\Console test zd\Console test zd\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\Masch\Desktop\тестовое\Console test zd\Console test zd\bin\Release\System.Net.Http.dll
+C:\Users\Masch\Desktop\тестовое\Console test zd\Console test zd\bin\Release\System.Net.Sockets.dll
+C:\Users\Masch\Desktop\тестовое\Console test zd\Console test zd\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Masch\Desktop\тестовое\Console test zd\Console test zd\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\Masch\Desktop\тестовое\Console test zd\Console test zd\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\Masch\Desktop\тестовое\Console test zd\Console test zd\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\Masch\Desktop\тестовое\Console test zd\Console test zd\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Masch\Desktop\тестовое\Console test zd\Console test zd\bin\Release\System.Xml.ReaderWriter.dll
+C:\Users\Masch\Desktop\тестовое\Console test zd\Console test zd\bin\Release\Aspose.Cells.xml
+C:\Users\Masch\Desktop\тестовое\Console test zd\Console test zd\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Masch\Desktop\тестовое\Console test zd\Console test zd\obj\Release\Console test zd.csprojResolveAssemblyReference.cache
+C:\Users\Masch\Desktop\тестовое\Console test zd\Console test zd\obj\Release\Console test zd.exe
+C:\Users\Masch\Desktop\тестовое\Console test zd\Console test zd\obj\Release\Console test zd.pdb
